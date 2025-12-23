@@ -12,8 +12,10 @@ Este projeto demonstra um pipeline ETL (Extract, Transform, Load) usando Python 
 📂 ##Estrutura de pastas.
 Após a execução, você terá:  
 - `SDW2023_transformado.csv` → versão transformada em CSV.  
-- `SDW2023_transformado.json` → versão transformada em JSON.  
-![Código Collab](img/etl.png)
+- `SDW2023_transformado.json` → versão transformada em JSON.
+
+  
+![Código Collab](https://github.com/mari19-coder/etl-pipeline-colab/blob/main/etl.png)
 
 
 
